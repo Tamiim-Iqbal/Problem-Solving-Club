@@ -27,5 +27,6 @@ int main()
         sum-=mn;
     }
     cout<<sum<<'\n';
+    
     return 0;
 }

@@ -27,5 +27,6 @@ int main()
     {
         cout<<"000"<<m<<'\n';
     }
+    
     return 0;
 }

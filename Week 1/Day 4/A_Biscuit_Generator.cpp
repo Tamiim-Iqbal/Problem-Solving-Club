@@ -13,5 +13,6 @@ int main()
         int ans = (t/a)*b;
         cout<<ans<<'\n';
     }
+    
     return 0;
 }

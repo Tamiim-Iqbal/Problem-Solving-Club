@@ -44,6 +44,7 @@ int main()
         Solution ob;
         auto ans = ob.search(pat,txt);
         cout<<ans<<'\n';
-    }    
+    }   
+	 
     return 0;
 }

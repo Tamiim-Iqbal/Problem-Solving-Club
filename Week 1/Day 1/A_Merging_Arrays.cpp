@@ -28,7 +28,6 @@ int main()
         }
         else 
         {
-            
             c[k]=b[j];
             j++;
             k++;
