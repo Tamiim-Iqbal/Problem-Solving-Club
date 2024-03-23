@@ -21,6 +21,5 @@ int main()
         }
     }
     if(c > 'z') cout<<"None"<<'\n';
-    
     return 0;
 }

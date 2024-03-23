@@ -16,6 +16,5 @@ int main()
     int z = a+b;
     mx = max(mx,z);
     cout<<mx<<'\n';
-
     return 0;
 }

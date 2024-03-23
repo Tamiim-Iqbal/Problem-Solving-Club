@@ -11,6 +11,5 @@ int main()
     ans *= c;
     if(ans>=a && ans<=b) cout<<ans<<'\n';
     else cout<<"-1";
-    
     return 0;
 }

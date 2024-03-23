@@ -28,6 +28,5 @@ int main()
         cout<<sum<<" ";
     }
     cout<<'\n';
-    
     return 0;
 }

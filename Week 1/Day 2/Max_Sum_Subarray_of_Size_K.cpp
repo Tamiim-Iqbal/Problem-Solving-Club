@@ -39,8 +39,7 @@ int main()
         }
         Solution ob;
         cout << ob.maximumSumSubarray(k,a,n) << endl;
-    }
-    
+    } 
     return 0; 
 } 
 

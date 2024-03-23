@@ -38,6 +38,5 @@ int main()
         sum += (1LL*cnt1*cnt2);
     }
     cout<<sum<<'\n';
-    
     return 0;
 }
